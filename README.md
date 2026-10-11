@@ -9,6 +9,7 @@ Deep, evidence-based teardowns of B2B SaaS products: what each product does, who
 | Product | Category | What it does | Date | Teardown |
 |---|---|---|---|---|
 | Swym | E-commerce / Shopify apps | Wishlists, back-in-stock alerts and gift registries for Shopify stores | Oct 2026 | [Summary](swym/README.md) · [Full teardown](swym/teardown.md) |
+| Aerchain | Enterprise procurement / AI agents | AI agents that run a large company's buying process, from purchase request to supplier invoice | Oct 2026 | [Summary](aerchain/README.md) · [Full teardown](aerchain/teardown.md) |
 
 ## How every teardown is built
 
@@ -25,6 +26,9 @@ Each teardown follows the same 65-part research brief, so they can be compared s
 README.md            this index
 teardown-brief.md    the 65-part research brief every teardown follows
 swym/
+  README.md          one-page summary
+  teardown.md        the full teardown
+aerchain/
   README.md          one-page summary
   teardown.md        the full teardown
 ```
